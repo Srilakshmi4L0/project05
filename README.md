@@ -6,7 +6,7 @@ This is a web based application developed for health based website in india
 
 
 **Project Link** -https://black-river-0ba13a100.3.azurestaticapps.net/
-**Project demo video link** -
+**Project demo video link** -https://youtu.be/CkGt6vY5Hrk
 
 **AZURE TECHNOLOGIES USED FOR THIS PROJECT**
 1.Static web apps.
